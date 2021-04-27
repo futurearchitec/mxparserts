@@ -1,11 +1,11 @@
 # mxparserts
- <div style="display: flex;justify-content: center;">
- <img style="vertical-align:middle"
- src="https://mathparser.org/wp-content/uploads/2020/01/mxparser-icon.png" width="350" alt="mXparser logo"> 
-</div>
-<p style="text-align: center;font-weight: bold;font-size:42px"> meets </p>
-
- <img style="background-color:white;" src="https://upload.wikimedia.org/wikipedia/commons/6/67/TypeScript_Logo.svg" alt="TypeScript logo"> 
+<p align="center">
+  <img width="350" src="https://mathparser.org/wp-content/uploads/2020/01/mxparser-icon.png" alt="mXparser logo">
+</p>
+<p align="center">meets</p>
+<p align="center">
+  <img width="350" src="https://upload.wikimedia.org/wikipedia/commons/6/67/TypeScript_Logo.svg" alt="TypeScript logo">
+</p>
 
 TypeScript port of the mXparser framework by Mariusz Gromada (https://github.com/mariuszgromada).
 
